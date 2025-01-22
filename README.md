@@ -6,3 +6,4 @@ Kodti iske tusiriw ushin:
 ```bash
 python main.py
 ```
+kel bot jaratamiz
